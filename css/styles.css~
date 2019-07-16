@@ -1,0 +1,67 @@
+body {
+    background-color: #77BFA3;
+    color: #DDE7C7;
+}
+
+form {
+    font-size: 1.2em;
+    
+}
+h1 {
+    font-size: 3.0em;
+    margin: 20px;
+}
+.input {
+    background-color: #98C9A3;
+    margin-bottom: 10px;
+    color: #2A372D;
+}
+
+.clickable {
+    background-color: #BFD8BD;
+}
+
+#personal {
+    display: flex;
+    margin-bottom: 50px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #578B77; 
+    padding: 10px;
+}
+
+#gender {
+    margin-left: 170px;
+}
+
+#location {
+    display: flex;
+    margin-bottom: 50px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #578B77; 
+    padding: 10px;
+}
+
+#stateInput {
+    padding-left: 180px;
+}
+
+#zipError {
+    margin-bottom: 20px;
+}
+
+#userInfo {
+    border-style: solid;
+    border-width: 5px;
+    border-color: #578B77; 
+    padding: 10px;
+}
+
+#done {
+    margin-top: 20px;
+    margin: 0 auto;
+    display: block;
+    width: 80px;
+    height: 35px;;
+}
